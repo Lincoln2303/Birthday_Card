@@ -13,8 +13,8 @@ day = now.day
 
 # Other vars
 
-my_email = "youremail@gmail.com"
-app_password = "okcalfzyfsborhqq"
+my_email = "youremail"
+app_password = "yourpassword"
 birthday_cards = []
 PLACEHOLDER = "[NAME]"
 
